@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚Empecé a estudiar en 2023<br>⌚ Actualmente estoy principalmente estudiando java <br>🎯 Metas: Poder realizar algún proyecto más complejo</p>
+<p align="left">📚Empecé a estudiar en 2023<br>⌚ Actualmente estoy principalmente estudiando Java <br>🎯 Metas: Poder realizar algún proyecto más complejo</p>
 
 ###
 
@@ -19,9 +19,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />       
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />       
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
