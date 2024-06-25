@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hola, Bienvenido </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Mi nombre es Antonio, soy de Zaragoza y soy un estudiante de desarrollo web <br>Y aquí iré subiendo los pequeños proyectos que vaya realizando para aprender sobre el mundo de la programación en general</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre Mi</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚Empecé a estudiar en 2023<br>⌚ Actualmente estoy principalmente estudiando java <br>🎯 Metas: Poder realizar algún proyecto más complejo</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tengo conocimientos en:</h2>
 
 ###
 
